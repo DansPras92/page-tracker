@@ -1,7 +1,0 @@
-Flask
-redis
-
-[dev]
-pytest
-pytest-timeout
-requests

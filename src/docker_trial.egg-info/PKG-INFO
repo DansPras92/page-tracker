@@ -1,9 +1,0 @@
-Metadata-Version: 2.1
-Name: docker_trial
-Version: 1.0.0
-Requires-Dist: Flask
-Requires-Dist: redis
-Provides-Extra: dev
-Requires-Dist: pytest; extra == "dev"
-Requires-Dist: pytest-timeout; extra == "dev"
-Requires-Dist: requests; extra == "dev"
